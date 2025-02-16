@@ -18,6 +18,8 @@ O **"AlertaFrio"** é um sistema desenvolvido para auxiliar supermercados na dev
 
 **Display OLED SSD1306**
 
+**Link do projeto no Simulador Wokwi**: https://wokwi.com/projects/422889631360049153
+
 **LEDs**
 
 **Botões**
