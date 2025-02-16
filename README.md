@@ -13,9 +13,14 @@ O **"AlertaFrio"** é um sistema desenvolvido para auxiliar supermercados na dev
 **Exibição no Display OLED:** Mensagens claras são exibidas para informar o operador sobre o status das devoluções.
 
 **Componentes Utilizados**
-**Raspberry Pi Pico W
-Display OLED SSD1306
-LEDs RGB
-Botões
-Placa BitDogLab**
+
+**Raspberry Pi Pico W**
+
+**Display OLED SSD1306**
+
+**LEDs**
+
+**Botões**
+
+**Placa BitDogLab**
 
