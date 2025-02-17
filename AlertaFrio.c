@@ -1,6 +1,4 @@
-//* Projeto final do EMBARCATECH 2024.2
-//* Desenvolvido por: Késia Lais dos Santos Souza
-//* Descrição: Projeto de um sistema para alertar os funcionários do caixa sobre a presença de produtos frios deixados por clientes, para que sejam recolhidos e devolvidos antes que se tornem avarias. O sistema é composto por um microcontrolador Raspberry Pi Pico, um display OLED SSD1306, dois botões de pressão, um LED vermelho e um LED verde. O sistema deve exibir mensagens no display OLED e acionar os LEDs de acordo com o estado dos botões de pressão. O botão A indica que há produtos frios no caixa, e o botão B indica que foi recolhido o produto. Quando o botão A é pressionado, o LED vermelho deve ser aceso e a mensagem "Frios no Caixa 3." deve ser exibida no display OLED. Quando o botão B é pressionado, o LED verde deve ser aceso e a mensagem "Frio Recolhido cx 3." deve ser exibida no display OLED. O sistema deve ser implementado em linguagem C e utilizando a biblioteca Pico SDK.
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
