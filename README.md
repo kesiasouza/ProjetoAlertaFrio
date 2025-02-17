@@ -2,7 +2,7 @@
 
 **Projeto final da primeira fase:**
 
-**Projeto Final: Alerta Frio**
+**Alerta Frio**
 
 **Introdução**
 
