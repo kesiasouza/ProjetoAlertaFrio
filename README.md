@@ -1,4 +1,8 @@
-**Projeto Alerta Frio**
+**O EmbarcaTech é um programa de capacitação técnica voltado para formar profissionais altamente qualificados em Sistemas Embarcados e suas aplicações na Internet das Coisas (IoT). O curso é dividido em duas fases: uma fase de capacitação inicial e uma fase de residência tecnológica.**
+
+**Projeto final da primeira fase:**
+
+**Projeto Final: Alerta Frio**
 
 **Introdução**
 
